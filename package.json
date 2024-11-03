@@ -26,6 +26,7 @@
   "devDependencies": {
     "@sanity/block-tools": "^3.62.3",
     "@sanity/eslint-config-studio": "^4.0.0",
+    "@types/jsdom": "^21.1.7",
     "@types/react": "^18.0.25",
     "@wordpress/block-serialization-default-parser": "^5.11.0",
     "eslint": "^8.6.0",
